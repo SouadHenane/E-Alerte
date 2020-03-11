@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Solution_TP8/tp-micro-service-master/ms-alerte/ms-alerte.iml" filepath="$PROJECT_DIR$/../Solution_TP8/tp-micro-service-master/ms-alerte/ms-alerte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Solution_TP8/tp-micro-service-master/ms-commissariat/ms-commissariat.iml" filepath="$PROJECT_DIR$/../Solution_TP8/tp-micro-service-master/ms-commissariat/ms-commissariat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Solution_TP8/tp-micro-service-master/ms-stat/ms-stat.iml" filepath="$PROJECT_DIR$/../Solution_TP8/tp-micro-service-master/ms-stat/ms-stat.iml" />
+    </modules>
+  </component>
+</project>
